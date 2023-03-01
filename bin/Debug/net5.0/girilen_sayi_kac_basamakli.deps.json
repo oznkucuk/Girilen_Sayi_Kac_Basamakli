@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "girilen_sayi_kac_basamakli/1.0.0": {
+        "runtime": {
+          "girilen_sayi_kac_basamakli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girilen_sayi_kac_basamakli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

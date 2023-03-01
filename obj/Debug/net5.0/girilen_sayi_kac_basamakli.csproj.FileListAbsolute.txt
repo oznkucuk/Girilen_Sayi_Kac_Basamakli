@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\bin\Debug\net5.0\girilen_sayi_kac_basamakli.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\refint\girilen_sayi_kac_basamakli.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\girilen_sayi_kac_basamakli.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\girilen_sayi_kac_basamakli\obj\Debug\net5.0\ref\girilen_sayi_kac_basamakli.dll
